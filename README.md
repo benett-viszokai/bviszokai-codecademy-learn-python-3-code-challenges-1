@@ -1,2 +1,2 @@
-# codecademy-learn-python-3-lists-01-gradebook-bviszokai-codecademy-learn-python-3-code-challenges-1
+# codecademy-learn-python-3-code-challenges-1-basic
 Codecademy - Learn Python 3 - Code Challenges - Basic
